@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IntuitionApp</string>
+    <string name="color">Цвет</string>
+    <string name="number">Число</string>
+    <string name="text">Угадай:</string>
+    <string name="animal">Животное</string>
+    <string name="figure">Фигура</string>
+    <string name="textcolorfragment">Нажмите кнопку, чтобы
+        выпал случайный цвет</string>
+    <string name="enter">ВВести</string>
+    <string name="animalContent">Угадай животное:</string>
+
+    <string name="animalPreview">
+        (Кошка, Собака, Лошадь, Свинья, Кролик, Корова)</string>
+    <string name="btnintuit">Загадать</string>
+    <string name="geometryContent">Угадай геометрическую\n
+        фигуру:</string>
+    <string name="geometryHint">(квадрат, треугольник, прямоугольник,
+        трапеция, параллелограмм)</string>
+</resources>
