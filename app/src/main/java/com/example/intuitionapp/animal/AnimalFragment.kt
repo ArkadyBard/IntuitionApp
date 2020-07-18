@@ -30,8 +30,7 @@ class AnimalFragment : Fragment() {
 
 
         btnAnimalShow.setOnClickListener {
-
-            val animal = masAnimals((0..5).random())
+            var animal = masAnimals((0..5).random())
             tvAnswerAnimal.text = animal.name
             imAnimal.setImageResource(animal.picId)
         }

@@ -10,7 +10,7 @@ fun masAnimals(randNum: Int) : Animals{
     animalList.add(Animals("Кошка", R.drawable.cat))
     animalList.add(Animals("Собака", R.drawable.dog))
     animalList.add(Animals("Корова", R.drawable.cow))
-    animalList.add(Animals("Лошадь", R.drawable.hourse))
+    animalList.add(Animals("Лошадь", R.drawable.horse))
     animalList.add(Animals("Свинья", R.drawable.pig))
     animalList.add(Animals("Кролик", R.drawable.rabbit))
 
