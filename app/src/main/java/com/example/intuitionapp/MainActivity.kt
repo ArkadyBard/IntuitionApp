@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         transaction = manager.beginTransaction()
         transaction.replace(R.id.mainContainer, MainFragment())
         transaction.commit()
+
     }
 
     override fun onBackPressed() {
